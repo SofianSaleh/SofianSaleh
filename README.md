@@ -20,6 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiansaleh&show_icons=true" alt="sofiansaleh" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/sofian-saleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sofian-saleh" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/sofian saleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sofian saleh" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sofian-saleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sofian-saleh" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sofian saleh" height="30" width="30" /></a>
 </p>
