@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sofian Saleh</h1>
 <h3 align="center">A passionate Full stack developer from Libya, Who specializes in Back-End development</h3>
-<center>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SofianSaleh)](https://github.com/ryo-ma/github-profile-trophy)
-</center>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiansaleh&label=Profile%20views&color=0e75b6&style=flat" alt="sofiansaleh" /> </p>
 
 - 🔭 I’m currently working on **My Car Dealer Website**
