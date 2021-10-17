@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiansaleh&label=Profile%20views&color=0e75b6&style=flat" alt="sofiansaleh" /> </p>
 
-- 🔭 I’m currently working on **My Car Dealer Website**
+- 🔭 I’m currently working on **Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I’m currently learning **Octave, Python**
 
 - 👨‍💻 All of my projects are available at [https://sofian-saleh.netlify.app](https://sofian-saleh.netlify.app)
 
-- 💬 Ask me about **NodeJS, TypeScript, ReactJS, VueJS, ExpressJS, PostgreSQL**
+- 💬 Ask me about **NodeJS, TypeScript, ReactJS, VueJS, ExpressJS, PostgreSQL, Python, Matlab/Octave**
 
 - 📫 How to reach me **sofiane.saleh11@gmail.com**
 
