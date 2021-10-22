@@ -29,7 +29,7 @@
 
 <a href="https://linkedin.com/in/sofian-saleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Personal" height="30" width="40" align="left"/></a>
 
-<a href="https://linkedin.com/company/sofian-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Company" height="30" width="40"align="left" /></a>
+<a href="https://linkedin.com/company/sofian-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Company" height="30" width="40" align="left" /></a>
 
 <a href="https://sofian-dev.blogspot.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="30" width="40" align="left"/></a>
 
