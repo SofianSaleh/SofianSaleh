@@ -107,6 +107,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I started reading and so should you](https://sofian-dev.blogspot.com/2021/03/why-i-started-reading-and-so-should-you.html)
+- [Creating an NPM Package, is it that easy?](https://sofian-dev.blogspot.com/2021/02/creating-npm-package-is-it-that-easy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sofian-dev.blogspot.com)
