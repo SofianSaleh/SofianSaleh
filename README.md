@@ -2,8 +2,8 @@
 
 <h3 align="center">A passionate Full stack developer from Libya, Who specializes in Back-End development</h3>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofian-saleh.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SofianSaleh11)
+[![Website](https://img.shields.io/website?label=sofian-saleh.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofian-saleh.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SofianSaleh11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SofianSaleh11)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=SofianSaleh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -29,8 +29,6 @@
 <a href="https://sofian-saleh.netlify.app" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/libreoffice.svg" alt="Website" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/sofian-saleh" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Personal" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/company/sofian-dev" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Company" height="30" width="40"  /></a>
 
 <a href="https://sofian-dev.blogspot.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="30" width="40" /></a>
 
