@@ -2,7 +2,7 @@ name: Latest YouTube activity
 on:
   schedule:
     # Runs every 5 minutes
-    - cron: '*/200 * * * *'
+    - cron: '*0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: 'YOUTUBE'
           commit_message: 'Updated readme with the latest YouTube data'
-          feed_list: 'https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg'
+          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCb8XEo2mMuAhTIFd125SMLg'
