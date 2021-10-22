@@ -100,6 +100,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create an NPM Package (with TypeScript](https://www.youtube.com/watch?v=b4B6KEIXbcM)
+- [FreeCodeCamp Intermediate Algorithm Scripting: Sum All Numbers in a Range Pt. 1](https://www.youtube.com/watch?v=fmp25FXLUPQ)
+- [Back-end Developer tries designing his own portfolio Pt. 4](https://www.youtube.com/watch?v=rrfMEcKPCE4)
+- [Back-end developer tries to design his own portfolio Pt. 3](https://www.youtube.com/watch?v=qXKbr8LWVRU)
+- [Back-end developer tries to design his own portfolion Pt. 2](https://www.youtube.com/watch?v=jZZUuuujLdU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg)
