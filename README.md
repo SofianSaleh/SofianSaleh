@@ -66,7 +66,7 @@
 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"  align="left"/> </a>
 
-<a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40" align="left"/> </a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://redux.js.org/img/redux.svg" alt="redux" width="40" height="40" align="left"/> </a>
 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40" align="left"/> </a>
 
