@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sofian Saleh</h1>
+### Hi there, I'm Sofian Saleh 👋
+
 <h3 align="center">A passionate Full stack developer from Libya, Who specializes in Back-End development</h3>
-<!-- 
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofian-saleh.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SofianSaleh11)
+
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=SofianSaleh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiansaleh&label=Profile%20views&color=0e75b6&style=flat" alt="sofiansaleh" /> </p>
@@ -19,18 +24,26 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://sofian-saleh.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/libreoffice.svg" alt="Website" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/sofian-saleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Personal" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/company/sofian-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Company" height="30" width="40" /></a>
+
+<a href="https://sofian-dev.blogspot.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="30" width="40" /></a>
+
+<a href="https://twitter.com/SofianSaleh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="30" width="40" /></a>
-  <a href="https://sofian-dev.blogspot.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="30" width="40" /></a>
-    <a href="https://sofian-saleh.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/libreoffice.svg" alt="Website" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/sofianappdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="https://twitter.com/SofianSaleh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/sofianappdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
 
@@ -66,9 +79,9 @@
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a>
 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
@@ -77,6 +90,24 @@
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 
 <a href="https://redis.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
+
+<br />
+<br />
+--
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg)
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://sofian-dev.blogspot.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiansaleh&show_icons=true&locale=en&layout=compact" alt="sofian-saleh" /></p>
 
