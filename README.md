@@ -25,19 +25,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://sofian-saleh.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/libreoffice.svg" alt="Website" height="30" width="40" /></a>
+<a href="https://sofian-saleh.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/libreoffice.svg" alt="Website" height="30" width="40" align="left"/></a>
 
-<a href="https://linkedin.com/in/sofian-saleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Personal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sofian-saleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Personal" height="30" width="40" align="left"/></a>
 
-<a href="https://linkedin.com/company/sofian-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Company" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/sofian-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Company" height="30" width="40"align="left" /></a>
 
-<a href="https://sofian-dev.blogspot.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="30" width="40" /></a>
+<a href="https://sofian-dev.blogspot.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="30" width="40" align="left"/></a>
 
-<a href="https://twitter.com/SofianSaleh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/SofianSaleh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" align="left"/></a>
 
-<a href="https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="30" width="40" align="left"/></a>
 
-<a href="https://www.instagram.com/sofianappdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sofianappdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" align="left"/></a>
 
 </p>
 
