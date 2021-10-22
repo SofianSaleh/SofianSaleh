@@ -23,7 +23,13 @@
 - 📄 Know about my experiences [https://sofian-saleh.netlify.app](https://sofian-saleh.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- <p align="left">
 
 <a href="https://sofian-saleh.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/libreoffice.svg" alt="Website" height="30" width="40" align="left"/></a>
 
@@ -39,7 +45,7 @@
 
 <a href="https://www.instagram.com/sofianappdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" align="left"/></a>
 
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
