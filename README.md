@@ -1,6 +1,6 @@
-### Hi there, I'm Sofian Saleh 👋
-
-<h3 align="center">A passionate Full stack developer from Libya, Who specializes in Back-End development</h3>
+### Hi there 👋, my name is Sofian Saleh
+#### I am a Civil Engineer and  a Full Stack Developer
+![I am a Civil Engineer and  a Full Stack Developer]
 
 [![Website](https://img.shields.io/website?label=sofian-saleh.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofian-saleh.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SofianSaleh11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SofianSaleh11)
@@ -8,37 +8,30 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=SofianSaleh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiansaleh&label=Profile%20views&color=0e75b6&style=flat" alt="sofiansaleh" /> </p>
+I am a Full Stack developer with a civil engineer degree, possesses a hands-on experience in Back-End Development, Following the industry standards and the latest trends.
 
-- 🔭 I’m currently working on **Machine Learning Algorithms**
+Skills: NodeJS/ PostgreSQL/ JS / TS / Octave/MATLAB/ ReactJS 
 
-- 🌱 I’m currently learning **Octave, Python**
+- 🔭 I’m currently working on **Logistic Regression** 
+- 🌱 I’m currently learning **Machine Learning** 
+- 👯 I’m looking to collaborate on **Any Back-end project** 
+- 📫 How to reach me: **You can reach me in the links down below** 
 
-- 👨‍💻 All of my projects are available at [https://sofian-saleh.netlify.app](https://sofian-saleh.netlify.app)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SofianSaleh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sofian-saleh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sofianappdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SofianSaleh11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sofian-saleh.netlify.app)  
 
-- 💬 Ask me about **NodeJS, TypeScript, ReactJS, VueJS, ExpressJS, PostgreSQL, Python, Matlab/Octave**
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **sofiane.saleh11@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianSaleh)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📄 Know about my experiences [https://sofian-saleh.netlify.app](https://sofian-saleh.netlify.app)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SofianSaleh&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SofianSaleh)  
 
-<p align="left">
+![GitHub metrics](https://metrics.lecoq.io/SofianSaleh)  
 
-<a href="https://sofian-saleh.netlify.app" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/libreoffice.svg" alt="Website" height="30" width="40" /></a>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SofianSaleh)  
 
-<a href="https://linkedin.com/in/sofian-saleh" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Personal" height="30" width="40" /></a>
-
-<a href="https://sofian-dev.blogspot.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="30" width="40" /></a>
-
-<a href="https://twitter.com/SofianSaleh11" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/sofianappdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-
-</p>
+![Profile views](https://gpvc.arturio.dev/SofianSaleh)  
 
 <h3 align="left">Languages and Tools:</h3>
 
