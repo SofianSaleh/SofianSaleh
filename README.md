@@ -1,10 +1,11 @@
 ### Hi there 👋, my name is Sofian Saleh
 #### I am a Civil Engineer and  a Full Stack Developer
-![I am a Civil Engineer and  a Full Stack Developer]
+
 
 [![Website](https://img.shields.io/website?label=sofian-saleh.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofian-saleh.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SofianSaleh11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SofianSaleh11)
 
+![Profile views](https://gpvc.arturio.dev/SofianSaleh)  
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=SofianSaleh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
@@ -20,18 +21,9 @@ Skills: NodeJS/ PostgreSQL/ JS / TS / Octave/MATLAB/ ReactJS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SofianSaleh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sofian-saleh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sofianappdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SofianSaleh11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sofian-saleh.netlify.app)  
 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianSaleh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SofianSaleh&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SofianSaleh)  
-
-![GitHub metrics](https://metrics.lecoq.io/SofianSaleh)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SofianSaleh)  
-
-![Profile views](https://gpvc.arturio.dev/SofianSaleh)  
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -111,8 +103,13 @@ Skills: NodeJS/ PostgreSQL/ JS / TS / Octave/MATLAB/ ReactJS
 
 ➡️ [more blog posts...](https://sofian-dev.blogspot.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiansaleh&show_icons=true&locale=en&layout=compact" alt="sofian-saleh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiansaleh&show_icons=true&locale=en" alt="sofian-saleh" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianSaleh)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiansaleh&" alt="Sofian-Saleh" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SofianSaleh&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SofianSaleh)  
+
+![GitHub metrics](https://metrics.lecoq.io/SofianSaleh)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SofianSaleh) 
