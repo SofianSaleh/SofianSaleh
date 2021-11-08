@@ -90,7 +90,7 @@ Skills: NodeJS/ PostgreSQL/ JS / TS / Octave/MATLAB/ ReactJS
 
 <!-- YOUTUBE:START -->
 - [Solutions to Coursera Machine Learning course by Stamford | Week 2](https://www.youtube.com/watch?v=38Z3vemKS6Y)
-- [Create an NPM Package (with TypeScript](https://www.youtube.com/watch?v=b4B6KEIXbcM)
+- [Create an NPM Package &lpar;with TypeScript](https://www.youtube.com/watch?v=b4B6KEIXbcM)
 - [FreeCodeCamp Intermediate Algorithm Scripting: Sum All Numbers in a Range Pt. 1](https://www.youtube.com/watch?v=fmp25FXLUPQ)
 - [Back-end Developer tries designing his own portfolio Pt. 4](https://www.youtube.com/watch?v=rrfMEcKPCE4)
 - [Back-end developer tries to design his own portfolio Pt. 3](https://www.youtube.com/watch?v=qXKbr8LWVRU)
