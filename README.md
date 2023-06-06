@@ -13,8 +13,8 @@ I am a Full Stack developer with a civil engineer degree, possesses a hands-on e
 
 Skills: NodeJS/ PostgreSQL/ JS / TS / Octave/MATLAB/ ReactJS 
 
-- 🔭 I’m currently working on **Logistic Regression** 
-- 🌱 I’m currently learning **Machine Learning** 
+<!-- - 🔭 I’m currently working on **Logistic Regression**  -->
+- 🌱 I’m currently learning **ERPNext and Nuxt 3** 
 - 👯 I’m looking to collaborate on **Any Back-end project** 
 - 📫 How to reach me: **You can reach me in the links down below** 
 
