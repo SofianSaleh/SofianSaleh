@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=sofian-saleh.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofian-saleh.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SofianSaleh11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SofianSaleh11)
 
-![Profile views](https://gpvc.arturio.dev/SofianSaleh)  
+![](https://komarev.com/ghpvc/?username=SofianSaleh&color=blue) 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=SofianSaleh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
