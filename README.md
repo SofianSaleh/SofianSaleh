@@ -86,26 +86,7 @@ Skills: NodeJS/ PostgreSQL/ JS / TS / Octave/MATLAB/ ReactJS
 <br />
 ---
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Solutions to Coursera Machine Learning course by Stamford | Week 2](https://www.youtube.com/watch?v=38Z3vemKS6Y)
-- [Create an NPM Package &lpar;with TypeScript](https://www.youtube.com/watch?v=b4B6KEIXbcM)
-- [FreeCodeCamp Intermediate Algorithm Scripting: Sum All Numbers in a Range Pt. 1](https://www.youtube.com/watch?v=fmp25FXLUPQ)
-- [Back-end Developer tries designing his own portfolio Pt. 4](https://www.youtube.com/watch?v=rrfMEcKPCE4)
-- [Back-end developer tries to design his own portfolio Pt. 3](https://www.youtube.com/watch?v=qXKbr8LWVRU)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCb8XEo2mMuAhTIFd125SMLg)
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Why I started reading and so should you](https://sofian-dev.blogspot.com/2021/03/why-i-started-reading-and-so-should-you.html)
-- [Creating an NPM Package, is it that easy?](https://sofian-dev.blogspot.com/2021/02/creating-npm-package-is-it-that-easy.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://sofian-dev.blogspot.com)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofianSaleh)](https://github.com/anuraghazra/github-readme-stats)
