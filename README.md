@@ -22,7 +22,7 @@ Skills: NodeJS/ PostgreSQL/ JS / TS / Octave/MATLAB/ ReactJS
 <!--END_SECTION:waka-->
 <!--https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg
 https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github-light.png -->
-[<img src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github-light.png' alt='github' height='40'>](https://github.com/SofianSaleh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sofian-saleh/) [<img src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/twitter.png' alt='twitter' height='40'>](https://twitter.com/SofianSaleh11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sofian-saleh.netlify.app)  
+[<img src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github-light.png' alt='github' height='40'>](https://github.com/SofianSaleh)  [<img src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sofian-saleh/) [<img src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/twitter.png' alt='twitter' height='40'>](https://twitter.com/SofianSaleh11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sofian-saleh.netlify.app)  
 
 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
