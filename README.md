@@ -2,7 +2,6 @@
 #### I am a Civil Engineer and  a Full Stack Developer
 
 
-[![Website](https://img.shields.io/website?label=sofian-saleh.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sofian-saleh.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SofianSaleh11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SofianSaleh11)
 
 ![](https://komarev.com/ghpvc/?username=SofianSaleh&color=blue) 
